@@ -1,0 +1,8 @@
+so, erster eintrag
+branch
+edit
+<<<<<<< HEAD
+change
+=======
+neuer branch: testing
+>>>>>>> testing
